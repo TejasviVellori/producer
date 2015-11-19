@@ -1,0 +1,3 @@
+place kafka producer jar in kafka libs folder
+start kafka producer:
+./kafka-run-class.sh producer.JsonProducer
